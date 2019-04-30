@@ -1,8 +1,14 @@
+# SUPAC (Supporters, Unicorns, Patrons, Angels, and Clients)
+
 ### Remarkable people who deserve recognition for our hard work
 
-## Clients of virtuous disruption
+## Supporters: Encouragers of the fearless and faithful
 
-## Investors in magical ideas
+## Unicorns: Investors in magical ideas
 
-## Friends in high places
+## Patrons: Monthly subscribers of moral and monetary support
+
+## Angels: Friends in high places
+
+## Clients: The league of virtuous disruption
 
