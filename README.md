@@ -1,5 +1,5 @@
 # SUPAC (Supporters, Unicorns, Patrons, Angels, and Clients)
-## `$ aka add --no-cache the-su.pack`
+## `$ aka add --no-cache -the su.pack`
 
 ### Remarkable people who deserve recognition for our hard work
 
