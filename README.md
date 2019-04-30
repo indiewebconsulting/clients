@@ -6,7 +6,7 @@
 
 ## Unicorns: Investors in magical ideas
 
-## Patrons: Monthly subscriptions of moral and monetary support
+## Patrons: Monthly subscribers of overhead relief and moral encouragement
 
 ## Angels: Friends in high places
 
