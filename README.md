@@ -1,4 +1,4 @@
-# SUPAC (Supporters, Unicorns, Patrons, Angels, and Clients)
+# #SUPACK (Supporters, Unicorns, Patrons, Angels, and Clients of the (Linux) Kernel)
 ## `$ aka add --no-cache -the su.pack`
 
 ### Remarkable people who deserve recognition for our hard work
