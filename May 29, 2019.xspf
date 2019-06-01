@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>https://media.whooshkaa.com/podcasts/4551/episodes/372864/208ccc/5cc003-episode_026_edison.mp3</location>
+			<image>file:///C:/Users/jonkm/AppData/Roaming/vlc/art/arturl/c6ac6aa80c33c229fdaac148b88ac3d8/art</image>
+			<duration>3743091</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://www.buzzsprout.com/207426/944648-earth-girls-are-easy-episode-6-part-1.mp3</location>
+			<image>file:///C:/Users/jonkm/AppData/Roaming/vlc/art/arturl/456c050fd257e6a771faa74d913b6449/art</image>
+			<duration>2833614</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://www.buzzsprout.com/207426/954315-earth-girls-are-easy-episode-6-part-2.mp3</location>
+			<image>file:///C:/Users/jonkm/AppData/Roaming/vlc/art/arturl/456c050fd257e6a771faa74d913b6449/art</image>
+			<duration>2690199</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://www.buzzsprout.com/207426/962741-earth-girls-are-easy-episode-6-part-3.mp3</location>
+			<image>https://storage.buzzsprout.com/variants/RjDYEFXpeeEouXaKYJ4DcD3q/8d66eb17bb7d02ca4856ab443a78f2148cafbb129f58a3c81282007c6fe24ff2?.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://media.whooshkaa.com/podcasts/4551/episodes/299783/a8f928/59024d-episode-014.mp3</location>
+			<image>https://files.whooshkaa.com/podcasts/podcast_4551/podcast_media/00dda5-thing1_lybsyn.jpg</image>
+			<duration>3261000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/4989e235-6c5f-4937-9426-893a2b94fd21.mp3</location>
+			<image>https://content.production.cdn.art19.com/images/e8/49/ce/1f/e849ce1f-f43e-4e73-968e-0eca212d2ed6/91586f804536a4ed4d8ecbc1acee9442a3c3421d878189e31da5fd1c962f18bc4225f6a646f46b8bacb3147835066a548f1a9b10efcc59b91b5e2ad01f25defe.jpeg</image>
+			<duration>2327000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/7b80ad2b-cb41-4ea8-a9be-14debbf58790.mp3</location>
+			<image>https://content.production.cdn.art19.com/images/e8/49/ce/1f/e849ce1f-f43e-4e73-968e-0eca212d2ed6/91586f804536a4ed4d8ecbc1acee9442a3c3421d878189e31da5fd1c962f18bc4225f6a646f46b8bacb3147835066a548f1a9b10efcc59b91b5e2ad01f25defe.jpeg</image>
+			<duration>1929000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/9f0c971f-f5e2-48cf-a82f-c42361c1420d.mp3</location>
+			<image>https://content.production.cdn.art19.com/images/e8/49/ce/1f/e849ce1f-f43e-4e73-968e-0eca212d2ed6/91586f804536a4ed4d8ecbc1acee9442a3c3421d878189e31da5fd1c962f18bc4225f6a646f46b8bacb3147835066a548f1a9b10efcc59b91b5e2ad01f25defe.jpeg</image>
+			<duration>1421000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/d05c7fb8-6112-4d3e-98d5-7f1c6a45365d.mp3</location>
+			<image>https://content.production.cdn.art19.com/images/e8/49/ce/1f/e849ce1f-f43e-4e73-968e-0eca212d2ed6/91586f804536a4ed4d8ecbc1acee9442a3c3421d878189e31da5fd1c962f18bc4225f6a646f46b8bacb3147835066a548f1a9b10efcc59b91b5e2ad01f25defe.jpeg</image>
+			<duration>1744000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/2c91618c-7738-4391-a9a0-79ff33932641.mp3</location>
+			<image>https://content.production.cdn.art19.com/images/e8/49/ce/1f/e849ce1f-f43e-4e73-968e-0eca212d2ed6/91586f804536a4ed4d8ecbc1acee9442a3c3421d878189e31da5fd1c962f18bc4225f6a646f46b8bacb3147835066a548f1a9b10efcc59b91b5e2ad01f25defe.jpeg</image>
+			<duration>4215000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://media.whooshkaa.com/podcasts/4551/episodes/282346/670953/02f050-episode-010-donalddylan.mp3</location>
+			<image>https://files.whooshkaa.com/podcasts/podcast_4551/podcast_media/00dda5-thing1_lybsyn.jpg</image>
+			<duration>3687000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://www.buzzsprout.com/207426/872631-die-hard-episode-4-part-1.mp3</location>
+			<image>https://storage.buzzsprout.com/variants/RjDYEFXpeeEouXaKYJ4DcD3q/8d66eb17bb7d02ca4856ab443a78f2148cafbb129f58a3c81282007c6fe24ff2?.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://www.buzzsprout.com/207426/876214-die-hard-episode-4-part-2.mp3</location>
+			<image>https://storage.buzzsprout.com/variants/RjDYEFXpeeEouXaKYJ4DcD3q/8d66eb17bb7d02ca4856ab443a78f2148cafbb129f58a3c81282007c6fe24ff2?.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://www.buzzsprout.com/207426/879849-die-hard-episode-4-part-3.mp3</location>
+			<image>https://storage.buzzsprout.com/variants/RjDYEFXpeeEouXaKYJ4DcD3q/8d66eb17bb7d02ca4856ab443a78f2148cafbb129f58a3c81282007c6fe24ff2?.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://play.podtrac.com/npr-344098539/edge1.pod.npr.org/anon.npr-mp3/npr/waitwait/2019/05/20190525_waitwait_wwdtmpodcast190525.mp3?awCollectionId=344098539&amp;awEpisodeId=726880037&amp;orgId=1&amp;d=2956&amp;p=344098539&amp;story=726880037&amp;t=podcast&amp;e=726880037&amp;size=47192724&amp;ft=pod&amp;f=344098539</location>
+			<image>https://media.npr.org/assets/img/2018/08/06/npr_wwdtm_podcasttile_sq-1e9edf5dfb49a3fff3703764e39442173ba8558a.jpg?s=1400</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://play.podtrac.com/npr-344098539/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/waitwait/2019/01/20190119_waitwait_wwdtmpodcast190119-4746671e-e059-4db3-ad3b-debc77ac680c.mp3?awCollectionId=344098539&amp;awEpisodeId=686782834&amp;orgId=1&amp;d=3015&amp;p=344098539&amp;story=686782834&amp;t=podcast&amp;e=686782834&amp;size=0&amp;ft=pod&amp;f=344098539</location>
+			<image>https://media.npr.org/assets/img/2018/08/06/npr_wwdtm_podcasttile_sq-1e9edf5dfb49a3fff3703764e39442173ba8558a.jpg?s=1400</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://media.whooshkaa.com/podcasts/4551/episodes/347839/8479eb/a6073e-episode_022_kris_crips.mp3</location>
+			<image>https://files.whooshkaa.com/podcasts/podcast_4551/podcast_media/00dda5-thing1_lybsyn.jpg</image>
+			<duration>3921000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://www.buzzsprout.com/207426/831957-tim-burton-s-batman-returns-episode-2-part-1.mp3</location>
+			<image>https://storage.buzzsprout.com/variants/RjDYEFXpeeEouXaKYJ4DcD3q/8d66eb17bb7d02ca4856ab443a78f2148cafbb129f58a3c81282007c6fe24ff2?.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://www.buzzsprout.com/207426/845762-tim-burton-s-batman-returns-episode-2-part-2.mp3</location>
+			<image>https://storage.buzzsprout.com/variants/RjDYEFXpeeEouXaKYJ4DcD3q/8d66eb17bb7d02ca4856ab443a78f2148cafbb129f58a3c81282007c6fe24ff2?.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://www.buzzsprout.com/207426/856591-tim-burton-s-batman-returns-episode-2-part-3.mp3</location>
+			<image>https://storage.buzzsprout.com/variants/RjDYEFXpeeEouXaKYJ4DcD3q/8d66eb17bb7d02ca4856ab443a78f2148cafbb129f58a3c81282007c6fe24ff2?.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://play.podtrac.com/npr-344098539/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/waitwait/2019/03/20190323_waitwait_wwdtmpodcast190323-1c5ea897-fa5f-4f3b-a492-b8f08db82959.mp3?awCollectionId=344098539&amp;awEpisodeId=706081189&amp;orgId=1&amp;d=2980&amp;p=344098539&amp;story=706081189&amp;t=podcast&amp;e=706081189&amp;size=47571736&amp;ft=pod&amp;f=344098539</location>
+			<image>https://media.npr.org/assets/img/2018/08/06/npr_wwdtm_podcasttile_sq-1e9edf5dfb49a3fff3703764e39442173ba8558a.jpg?s=1400</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/criminal/a91a9494-fb45-48c5-ad4c-2615bfefd81b/Episode_115_Cecilia_Part_1.mp3</location>
+			<image>https://f.prxu.org/criminal/images/aaff5251-e6ab-44da-8886-092289630040/CRIMINAL_LOGOS_FINAL_wt_sq.png</image>
+			<duration>2038000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://traffic.megaphone.fm/VIA3203206605.mp3</location>
+			<image>https://static.megaphone.fm/podcasts/34814bf8-e860-11e8-8bb2-6f3e1a98c859/image/uploads_2F1553887433220-tm6mswb02ve-81b991f0edef1e2d49524f20aaa20a8f_2FTDS_EARS_EDITION_COVER_ART_2019.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://traffic.megaphone.fm/VIA7927090117.mp3</location>
+			<image>https://static.megaphone.fm/podcasts/34814bf8-e860-11e8-8bb2-6f3e1a98c859/image/uploads_2F1553887433220-tm6mswb02ve-81b991f0edef1e2d49524f20aaa20a8f_2FTDS_EARS_EDITION_COVER_ART_2019.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://media.whooshkaa.com/podcasts/4551/episodes/316747/194e7e/63306a-episode-016.mp3</location>
+			<image>https://files.whooshkaa.com/podcasts/podcast_4551/podcast_media/00dda5-thing1_lybsyn.jpg</image>
+			<duration>3229000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://anchor.fm/s/7eac8a4/podcast/play/3239531/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-4-14%2F14767140-44100-2-acfa92fe5466b.mp3</location>
+			<image>https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_nologo/1228273/1228273-1544187154987-0d7764ff7067f.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://anchor.fm/s/7eac8a4/podcast/play/3321429/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-4-22%2F15641558-44100-2-7cceb2be288ba.mp3</location>
+			<image>https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_nologo/1228273/1228273-1544187154987-0d7764ff7067f.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://anchor.fm/s/7eac8a4/podcast/play/3334617/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-4-23%2F15718478-44100-2-47db1f521945d.mp3</location>
+			<image>https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_nologo/1228273/1228273-1544187154987-0d7764ff7067f.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://media.whooshkaa.com/podcasts/4551/episodes/336224/f2c4ef/e5a089-episode_019_normalise.mp3</location>
+			<image>https://files.whooshkaa.com/podcasts/podcast_4551/podcast_media/00dda5-thing1_lybsyn.jpg</image>
+			<duration>2645000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://play.podtrac.com/npr-344098539/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/waitwait/2019/03/20190316_waitwait_wwdtmpodcast190316-065e035e-6768-486e-b937-363a4359dc38.mp3?awCollectionId=344098539&amp;awEpisodeId=704088825&amp;orgId=1&amp;d=3033&amp;p=344098539&amp;story=704088825&amp;t=podcast&amp;e=704088825&amp;size=0&amp;ft=pod&amp;f=344098539</location>
+			<image>https://media.npr.org/assets/img/2018/08/06/npr_wwdtm_podcasttile_sq-1e9edf5dfb49a3fff3703764e39442173ba8558a.jpg?s=1400</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://play.podtrac.com/npr-344098539/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/waitwait/2019/02/20190216_waitwait_wwdtmpodcast190216-13f73d6e-ac9a-4730-9058-feee807036b8-69afff5c-485f-4027-98e4-187ee16a465e.mp3?awCollectionId=344098539&amp;awEpisodeId=695374491&amp;orgId=1&amp;d=2971&amp;p=344098539&amp;story=695374491&amp;t=podcast&amp;e=695374491&amp;size=0&amp;ft=pod&amp;f=344098539</location>
+			<image>https://media.npr.org/assets/img/2018/08/06/npr_wwdtm_podcasttile_sq-1e9edf5dfb49a3fff3703764e39442173ba8558a.jpg?s=1400</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://play.podtrac.com/npr-344098539/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/waitwait/2019/04/20190420_waitwait_wwdtmpodcast190420-0a44dd10-9f0e-48ba-98b6-8c557822581c-c5c7fbec-2436-46c3-a88d-7b31fed0bccf.mp3?awCollectionId=344098539&amp;awEpisodeId=715232579&amp;orgId=1&amp;d=2974&amp;p=344098539&amp;story=715232579&amp;t=podcast&amp;e=715232579&amp;size=47486668&amp;ft=pod&amp;f=344098539</location>
+			<image>https://media.npr.org/assets/img/2018/08/06/npr_wwdtm_podcasttile_sq-1e9edf5dfb49a3fff3703764e39442173ba8558a.jpg?s=1400</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/criminal/1ec41808-1f14-40d2-b038-c4ccedbc358a/Episode_114_Philip_and_Becky_Part_1.mp3</location>
+			<image>https://f.prxu.org/criminal/images/aaff5251-e6ab-44da-8886-092289630040/CRIMINAL_LOGOS_FINAL_wt_sq.png</image>
+			<duration>2052000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://www.buzzsprout.com/207426/795111-kevin-smith-s-tusk-episode-1-part-1.mp3</location>
+			<image>https://storage.buzzsprout.com/variants/RjDYEFXpeeEouXaKYJ4DcD3q/8d66eb17bb7d02ca4856ab443a78f2148cafbb129f58a3c81282007c6fe24ff2?.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://www.buzzsprout.com/207426/795112-kevin-smith-s-tusk-episode-1-part-2.mp3</location>
+			<image>https://storage.buzzsprout.com/variants/RjDYEFXpeeEouXaKYJ4DcD3q/8d66eb17bb7d02ca4856ab443a78f2148cafbb129f58a3c81282007c6fe24ff2?.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://www.buzzsprout.com/207426/795119-kevin-smith-s-tusk-episode-1-part-3.mp3</location>
+			<image>https://storage.buzzsprout.com/variants/RjDYEFXpeeEouXaKYJ4DcD3q/8d66eb17bb7d02ca4856ab443a78f2148cafbb129f58a3c81282007c6fe24ff2?.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/1fa24889-5a4f-495c-9a4c-dad50c275071.mp3</location>
+			<image>https://content.production.cdn.art19.com/images/1f/8d/42/6a/1f8d426a-c286-4cc8-bfc6-a27ed8dd37d7/875764208041c9d8ea6dbbcadb1d28832a328e3a8286e1fb5b6a34844a482381bbea47b1cbf5e445cd564bf51894e4ad76ce688bbe91cfdb2ef41e6d50688912.jpeg</image>
+			<duration>120000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/a9c1eab7-e9de-44e0-b912-df90845d0ea1.mp3</location>
+			<image>https://content.production.cdn.art19.com/images/1f/8d/42/6a/1f8d426a-c286-4cc8-bfc6-a27ed8dd37d7/875764208041c9d8ea6dbbcadb1d28832a328e3a8286e1fb5b6a34844a482381bbea47b1cbf5e445cd564bf51894e4ad76ce688bbe91cfdb2ef41e6d50688912.jpeg</image>
+			<duration>3630000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/30682922-4b4d-441a-88aa-d21ec5aa8685.mp3</location>
+			<image>https://content.production.cdn.art19.com/images/1f/8d/42/6a/1f8d426a-c286-4cc8-bfc6-a27ed8dd37d7/875764208041c9d8ea6dbbcadb1d28832a328e3a8286e1fb5b6a34844a482381bbea47b1cbf5e445cd564bf51894e4ad76ce688bbe91cfdb2ef41e6d50688912.jpeg</image>
+			<duration>3552000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/5ee26d8f-fce5-4107-8651-db7ee2550178.mp3</location>
+			<image>https://content.production.cdn.art19.com/images/1f/8d/42/6a/1f8d426a-c286-4cc8-bfc6-a27ed8dd37d7/875764208041c9d8ea6dbbcadb1d28832a328e3a8286e1fb5b6a34844a482381bbea47b1cbf5e445cd564bf51894e4ad76ce688bbe91cfdb2ef41e6d50688912.jpeg</image>
+			<duration>4198000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/8cbe6351-e232-40a0-b4f9-3526e9314851.mp3</location>
+			<image>https://content.production.cdn.art19.com/images/1f/8d/42/6a/1f8d426a-c286-4cc8-bfc6-a27ed8dd37d7/875764208041c9d8ea6dbbcadb1d28832a328e3a8286e1fb5b6a34844a482381bbea47b1cbf5e445cd564bf51894e4ad76ce688bbe91cfdb2ef41e6d50688912.jpeg</image>
+			<duration>6104000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://media.whooshkaa.com/podcasts/4551/episodes/359060/2c6d2d/43ca69-episode_024_no_guest.mp3</location>
+			<image>https://files.whooshkaa.com/podcasts/podcast_4551/podcast_media/00dda5-thing1_lybsyn.jpg</image>
+			<duration>2823000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://media.whooshkaa.com/podcasts/4551/episodes/366466/044f5c/ed561f-episode_025_beta_test.mp3</location>
+			<image>https://files.whooshkaa.com/podcasts/podcast_4551/podcast_media/00dda5-thing1_lybsyn.jpg</image>
+			<duration>876000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://traffic.libsyn.com/boredandannoyed/BandA_Video_Games_that_need_to_be_made.mp3?dest-id=699941</location>
+			<image>http://static.libsyn.com/p/assets/a/0/e/6/a0e63209d3158640/ba3.jpg</image>
+			<duration>5238000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://traffic.libsyn.com/boredandannoyed/BandA_Reviews_GoT_Series_Finale.mp3?dest-id=699941</location>
+			<image>http://static.libsyn.com/p/assets/a/0/e/6/a0e63209d3158640/ba3.jpg</image>
+			<duration>2677000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://traffic.libsyn.com/boredandannoyed/BandA_John_Wick_3.mp3?dest-id=699941</location>
+			<image>http://static.libsyn.com/p/assets/a/0/e/6/a0e63209d3158640/ba3.jpg</image>
+			<duration>4030000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://www.buzzsprout.com/207426/982733-monty-python-and-the-holy-grail-part-1.mp3</location>
+			<image>https://storage.buzzsprout.com/variants/RjDYEFXpeeEouXaKYJ4DcD3q/8d66eb17bb7d02ca4856ab443a78f2148cafbb129f58a3c81282007c6fe24ff2?.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>46</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://www.buzzsprout.com/207426/991692-monty-python-and-the-holy-grail-part-2.mp3</location>
+			<image>https://storage.buzzsprout.com/variants/RjDYEFXpeeEouXaKYJ4DcD3q/8d66eb17bb7d02ca4856ab443a78f2148cafbb129f58a3c81282007c6fe24ff2?.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>47</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://www.buzzsprout.com/207426/997296-monty-python-and-the-holy-grail-part-3.mp3</location>
+			<image>file:///C:/Users/jonkm/AppData/Roaming/vlc/art/arturl/456c050fd257e6a771faa74d913b6449/art</image>
+			<duration>1934303</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>48</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/criminal/b8f8f634-073f-4e35-b3eb-16d0bda8133c/Episode_101_The_Fox_Part_1.mp3</location>
+			<image>https://f.prxu.org/criminal/images/aaff5251-e6ab-44da-8886-092289630040/CRIMINAL_LOGOS_FINAL_wt_sq.png</image>
+			<duration>1517000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>49</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+		<vlc:item tid="33"/>
+		<vlc:item tid="34"/>
+		<vlc:item tid="35"/>
+		<vlc:item tid="36"/>
+		<vlc:item tid="37"/>
+		<vlc:item tid="38"/>
+		<vlc:item tid="39"/>
+		<vlc:item tid="40"/>
+		<vlc:item tid="41"/>
+		<vlc:item tid="42"/>
+		<vlc:item tid="43"/>
+		<vlc:item tid="44"/>
+		<vlc:item tid="45"/>
+		<vlc:item tid="46"/>
+		<vlc:item tid="47"/>
+		<vlc:item tid="48"/>
+		<vlc:item tid="49"/>
+	</extension>
+</playlist>
