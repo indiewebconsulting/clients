@@ -1,3 +1,5 @@
+# Campaign Snapshots Will Be Stored in this Project
+
 # #SUPACK 
 Supporters, Unicorns, Patrons, Angels, and Clients of the (Linux) Kernel
 
